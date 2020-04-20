@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/shoppin-app/static/css/main.264ecb6c.chunk.css",
+    "main.js": "/shoppin-app/static/js/main.943567ba.chunk.js",
+    "main.js.map": "/shoppin-app/static/js/main.943567ba.chunk.js.map",
+    "runtime-main.js": "/shoppin-app/static/js/runtime-main.b962b941.js",
+    "runtime-main.js.map": "/shoppin-app/static/js/runtime-main.b962b941.js.map",
+    "static/js/2.9e804755.chunk.js": "/shoppin-app/static/js/2.9e804755.chunk.js",
+    "static/js/2.9e804755.chunk.js.map": "/shoppin-app/static/js/2.9e804755.chunk.js.map",
+    "index.html": "/shoppin-app/index.html",
+    "precache-manifest.553a1c1ab0315e6bb7bc1e8bbf29f62e.js": "/shoppin-app/precache-manifest.553a1c1ab0315e6bb7bc1e8bbf29f62e.js",
+    "service-worker.js": "/shoppin-app/service-worker.js",
+    "static/css/main.264ecb6c.chunk.css.map": "/shoppin-app/static/css/main.264ecb6c.chunk.css.map",
+    "static/js/2.9e804755.chunk.js.LICENSE.txt": "/shoppin-app/static/js/2.9e804755.chunk.js.LICENSE.txt",
+    "static/media/img1.jpg": "/shoppin-app/static/media/img1.5e4b97d9.jpg",
+    "static/media/img1.jpeg": "/shoppin-app/static/media/img1.b7a786ae.jpeg",
+    "static/media/img10.jpg": "/shoppin-app/static/media/img10.7651bdac.jpg",
+    "static/media/img12.jpg": "/shoppin-app/static/media/img12.e9e7a6da.jpg",
+    "static/media/img13.jpg": "/shoppin-app/static/media/img13.e5197867.jpg",
+    "static/media/img3.jpg": "/shoppin-app/static/media/img3.6c121c1a.jpg",
+    "static/media/img4.jpg": "/shoppin-app/static/media/img4.4736231d.jpg",
+    "static/media/img6.jpg": "/shoppin-app/static/media/img6.fa404b71.jpg",
+    "static/media/img7.jpg": "/shoppin-app/static/media/img7.550dd5ae.jpg",
+    "static/media/img8.jpg": "/shoppin-app/static/media/img8.3801ec08.jpg",
+    "static/media/img9.jpg": "/shoppin-app/static/media/img9.71579886.jpg",
+    "static/media/logo.svg": "/shoppin-app/static/media/logo.5d5d9eef.svg",
+    "static/media/success.gif": "/shoppin-app/static/media/success.b8fc82fb.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b962b941.js",
+    "static/js/2.9e804755.chunk.js",
+    "static/css/main.264ecb6c.chunk.css",
+    "static/js/main.943567ba.chunk.js"
+  ]
+}
