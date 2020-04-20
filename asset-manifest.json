@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/shoppingapphosted/static/css/main.264ecb6c.chunk.css",
+    "main.js": "/shoppingapphosted/static/js/main.f045e400.chunk.js",
+    "main.js.map": "/shoppingapphosted/static/js/main.f045e400.chunk.js.map",
+    "runtime-main.js": "/shoppingapphosted/static/js/runtime-main.f2c0542d.js",
+    "runtime-main.js.map": "/shoppingapphosted/static/js/runtime-main.f2c0542d.js.map",
+    "static/js/2.18bd14e9.chunk.js": "/shoppingapphosted/static/js/2.18bd14e9.chunk.js",
+    "static/js/2.18bd14e9.chunk.js.map": "/shoppingapphosted/static/js/2.18bd14e9.chunk.js.map",
+    "index.html": "/shoppingapphosted/index.html",
+    "precache-manifest.9fce593525c07fdc198e741fb4d3056b.js": "/shoppingapphosted/precache-manifest.9fce593525c07fdc198e741fb4d3056b.js",
+    "service-worker.js": "/shoppingapphosted/service-worker.js",
+    "static/css/main.264ecb6c.chunk.css.map": "/shoppingapphosted/static/css/main.264ecb6c.chunk.css.map",
+    "static/js/2.18bd14e9.chunk.js.LICENSE.txt": "/shoppingapphosted/static/js/2.18bd14e9.chunk.js.LICENSE.txt",
+    "static/media/img1.jpg": "/shoppingapphosted/static/media/img1.5e4b97d9.jpg",
+    "static/media/img1.jpeg": "/shoppingapphosted/static/media/img1.b7a786ae.jpeg",
+    "static/media/img10.jpg": "/shoppingapphosted/static/media/img10.7651bdac.jpg",
+    "static/media/img12.jpg": "/shoppingapphosted/static/media/img12.e9e7a6da.jpg",
+    "static/media/img13.jpg": "/shoppingapphosted/static/media/img13.e5197867.jpg",
+    "static/media/img3.jpg": "/shoppingapphosted/static/media/img3.6c121c1a.jpg",
+    "static/media/img4.jpg": "/shoppingapphosted/static/media/img4.4736231d.jpg",
+    "static/media/img6.jpg": "/shoppingapphosted/static/media/img6.fa404b71.jpg",
+    "static/media/img7.jpg": "/shoppingapphosted/static/media/img7.550dd5ae.jpg",
+    "static/media/img8.jpg": "/shoppingapphosted/static/media/img8.3801ec08.jpg",
+    "static/media/img9.jpg": "/shoppingapphosted/static/media/img9.71579886.jpg",
+    "static/media/logo.svg": "/shoppingapphosted/static/media/logo.5d5d9eef.svg",
+    "static/media/success.gif": "/shoppingapphosted/static/media/success.b8fc82fb.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2c0542d.js",
+    "static/js/2.18bd14e9.chunk.js",
+    "static/css/main.264ecb6c.chunk.css",
+    "static/js/main.f045e400.chunk.js"
+  ]
+}

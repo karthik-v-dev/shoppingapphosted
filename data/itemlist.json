@@ -1,0 +1,119 @@
+[
+    {
+        "src": "./images/img1.jpg",
+        "OfferText": "17% OFF",
+        "BrandName": "LifeBuoy",
+        "ProductName": "LifeBuoy Handwash",
+        "Quantity": "250ML",
+        "MRP": 65,
+        "Price": 54
+    },
+    {
+        "src": "./images/img2.jpg",
+        "OfferText": "24% OFF",
+        "BrandName": "Parachute Oil",
+        "ProductName": "Pure Coconut Hair Oil",
+        "Quantity": "250ML",
+        "MRP": 125,
+        "Price": 95
+    },
+    {
+        "src": "./images/img3.jpg",
+        "OfferText": "23% OFF",
+        "BrandName": "Sunfeast Yippee",
+        "ProductName": "Yippee Noodles 4 Packs",
+        "Quantity": "70g",
+        "MRP": 48,
+        "Price": 37
+    },
+    {
+        "src": "./images/img4.jpg",
+        "OfferText": "7% OFF",
+        "BrandName": "SunFlower",
+        "ProductName": "Glod Drop SunFlower Oil",
+        "Quantity": "1L",
+        "MRP": 115,
+        "Price": 107
+    },
+    {
+        "src": "./images/img5.jpg",
+        "OfferText": "20% OFF",
+        "BrandName": "Freedom",
+        "ProductName": "Freedom SunFlower oil",
+        "Quantity": "1L",
+        "MRP": 115,
+        "Price": 92
+    },
+    {
+        "src": "./images/img6.jpg",
+        "OfferText": "5% OFF",
+        "BrandName": "Freedom",
+        "ProductName": "Freedom SunFlower oil",
+        "Quantity": "5L",
+        "MRP": 580,
+        "Price": 551
+    },
+    {
+        "src": "./images/img7.jpg",
+        "OfferText": "15%  OFF",
+        "BrandName": "Lotte",
+        "ProductName": "Lotte Choco Pie",
+        "Quantity": "12 Pac",
+        "MRP": 140,
+        "Price": 119
+    },
+    {
+        "src": "./images/img8.jpg",
+        "OfferText": "8% OFF",
+        "BrandName": "Mangaldeep",
+        "ProductName": "Mangaldeep Sandal",
+        "Quantity": "84N",
+        "MRP": 50,
+        "Price": 46
+    },
+    {
+        "src": "./images/img9.jpg",
+        "OfferText": "25%  OFF",
+        "BrandName": "Annapurna",
+        "ProductName": "Annapurna Salt",
+        "Quantity": "1Kg",
+        "MRP": 24,
+        "Price": 18
+    },
+    {
+        "src": "./images/img10.jpg",
+        "OfferText": "20% OFF",
+        "BrandName": "Hit",
+        "ProductName": "Hit kills Dengue,Malaria Mosquitos",
+        "Quantity": "150ML",
+        "MRP": 120,
+        "Price": 96
+    },
+    {
+        "src": "./images/img11.jpg",
+        "OfferText": "6% OFF",
+        "BrandName": "GoodNight",
+        "ProductName": "GoodNight Xpress Mosquito Repellant",
+        "Quantity": "35ML",
+        "MRP": 74,
+        "Price": 70
+    },
+    {
+        "src": "./images/img12.jpg",
+        "OfferText": "10% OFF",
+        "BrandName": "Meera",
+        "ProductName": "Meera strong and Healthy Hair Shampoo",
+        "Quantity": "180ML",
+        "MRP": 130,
+        "Price": 117
+    },
+    {
+        "src": "./images/img13.jpg",
+        "OfferText": "15% OFF",
+        "BrandName": "Fair and Lovely",
+        "ProductName": "Fair and Lovely Multi Vitamin Face Cream",
+        "Quantity": "80g",
+        "MRP": 160,
+        "Price": 136
+    }
+]
